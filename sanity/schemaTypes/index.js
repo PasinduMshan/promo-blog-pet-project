@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import promotion from './promotion'
+
+export const schemaTypes = [promotion]
